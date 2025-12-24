@@ -1,0 +1,364 @@
+{
+  "pageProps": {
+    "seriesDetail": {
+      "id": "naruto2",
+      "seriesName": "Naruto 疾風伝",
+      "logoImg_pc": "/anime/series/naruto2_logo_pc.webp",
+      "logoImg_sp": "/anime/series/naruto2_logo_sp.webp",
+      "seriesSummary": "Almost two and a half years have passed since the intense battle at the Final Valley. Returning to the village after his training with Jiraiya, Naruto is reunited with Sakura, who has become a noteworthy medical ninja, Kakashi, and the rest of his friends who have also grown stronger during his absence. However, there is little time to celebrate as shocking news reaches the Hidden Leaf Village. Gaara, who is now the Hidden Sand Village's Kazekage, has been kidnapped by Akatsuki!\n  The organization has begun moving to capture all the Tailed Beasts. Naruto being all too familiar with the pain and isolation that comes with being a Jinchuriki, is enraged at Akatsuki for kidnapping his friend and is worried about his safety. Under the orders of the current Hokage Tsunade, Naruto forms a three-man squad with Sakura and Kakashi to rescue Gaara. Will they be able to counter the overwhelming power of Akatsuki?!\n  Meanwhile, what fate awaits Sasuke as Orochimaru prepares for his triumphant return?! A storm brews as their battles unfold!",
+      "seriesImg": "/anime/series/naruto2_visual.webp",
+      "staff": [
+        {
+          "work": "Original Story and Art",
+          "name": "Masashi Kishimoto Naruto (Shueisha / Jump Comics)"
+        },
+        { "work": "Director", "name": "Hayato Date" },
+        { "work": "", "name": "Osamu Kobayashi (#700 - #704)" },
+        { "work": "", "name": "Chiaki Kon (Sasuke Shinden)" },
+        { "work": "", "name": "Toshinori Watanabe (Shikamaru Hiden)" },
+        { "work": "", "name": "Masahiko Murata (Konoha Hiden)" },
+        {
+          "work": "Series Coordinator",
+          "name": "Junki Takegami / Satoru Nishizono / Yasuyuki Suzuki / Katsuhiko Chiba / Shin Yoshida / Yasuaki Kurozu"
+        },
+        { "work": "", "name": "Osamu Kobayashi (#700 - #704)" },
+        { "work": "", "name": "Masanao Akahoshi (Sasuke Shinden)" },
+        { "work": "", "name": "Masaya Honda (Shikamaru Hiden)" },
+        { "work": "", "name": "Kento Shimoyama (Konoha Hiden)" },
+        {
+          "work": "Animation Character Designer",
+          "name": "Tetsuya Nishio / Hirofumi Suzuki"
+        },
+        {
+          "work": "Art Director",
+          "name": "Shigenori Takada / Norihiko Yokomatsu"
+        },
+        {
+          "work": "Director of Cinematography",
+          "name": "Astuho Matsumoto / Nobuo Kimura"
+        },
+        {
+          "work": "Color Designer",
+          "name": "Takuya Kawami / Mayumi Nagashima"
+        },
+        {
+          "work": "Editing",
+          "name": "Morita Editing Room / Seiji Morita / Yukie Oikawa"
+        },
+        { "work": "Sound Director", "name": "Yasunori Ebina" },
+        { "work": "Recording Director", "name": "Chiharu Kamio" },
+        { "work": "Music", "name": "Yasuharu Takanashi / -yaiba-" },
+        { "work": "", "name": "MUSASHI PROJECT / Toshiro Masuda" },
+        {
+          "work": "Co-Author",
+          "name": "Shin Towada Naruto: Sasuke Shinden: Book of Sunrise\n (Shueisha / JUMP J BOOKS)"
+        },
+        {
+          "work": "",
+          "name": "Takashi Yano Naruto: Shikamaru Hiden: A Cloud Drifting in the Silent Dark\n (Shueisha / JUMP J BOOKS)"
+        },
+        {
+          "work": "",
+          "name": "Sho Hinata Naruto: Konoha Hiden:The Perfect Day for a Wedding\n (Shueisha / JUMP J BOOKS)"
+        }
+      ],
+      "cast": [
+        { "char": "Naruto Uzumaki", "name": "Junko Takeuchi" },
+        { "char": "Sasuke Uchiha", "name": "Noriaki Sugiyama" },
+        { "char": "Sakura Haruno", "name": "Chie Nakamura" },
+        { "char": "Kakashi Hatake", "name": "Kazuhiko Inoue" },
+        { "char": "Jiraiya", "name": "Hochu Otsuka" },
+        { "char": "Itachi Uchiha", "name": "Hideo Ishikawa" },
+        { "char": "Sai", "name": "Satoshi Hino" },
+        { "char": "Yamato", "name": "Rikiya Koyama" },
+        { "char": "Minato Namikaze", "name": "Toshiyuki Morikawa" },
+        { "char": "Kushina Uzumaki", "name": "Emi Shinohara" },
+        { "char": "Kurama", "name": "Tessho Genda" },
+        { "char": "Hashirama Senju", "name": "Takayuki Sugo" },
+        { "char": "Gaara", "name": "Akira Ishida" },
+        { "char": "Killer Bee", "name": "Hisao Egawa" },
+        { "char": "Pain", "name": "Kenyu Horiuchi" },
+        { "char": "Obito Uchiha", "name": "Wataru Takagi" },
+        { "char": "Madara Uchiha", "name": "Naoya Uchida" },
+        { "char": "Kaguya Otsutsuki", "name": "Mami Koyama" }
+      ],
+      "opening": [
+        {
+          "ep": "Feb. 2007 - Sep. 2007",
+          "song": "Hero's Come Back!!",
+          "singer": "nobodyknows+"
+        },
+        {
+          "ep": "Oct. 2007 - Mar. 2008",
+          "song": "distance",
+          "singer": "LONG SHOT PARTY"
+        },
+        {
+          "ep": "Apr. 2008 - Sep. 2008",
+          "song": "Blue Bird",
+          "singer": "Ikimonogakari"
+        },
+        {
+          "ep": "Oct. 2008 - Mar. 2009",
+          "song": "CLOSER",
+          "singer": "Joe Inoue"
+        },
+        {
+          "ep": "Apr. 2009 - Sep. 2009",
+          "song": "Hotaru no Hikari",
+          "singer": "Ikimonogakari"
+        },
+        { "ep": "Oct. 2009 - Mar. 2010", "song": "Sign", "singer": "FLOW" },
+        {
+          "ep": "Apr. 2010 - Sep. 2010",
+          "song": "Toumei Datta Sekai",
+          "singer": "Motohiro Hata"
+        },
+        {
+          "ep": "Oct. 2010 - Mar. 2011",
+          "song": "DIVER",
+          "singer": "NICO Touches the Walls"
+        },
+        {
+          "ep": "Apr. 2011 - Sep. 2011",
+          "song": "Lovers",
+          "singer": "7!! (seven oops)"
+        },
+        {
+          "ep": "Oct. 2011 - Mar. 2012",
+          "song": "newsong",
+          "singer": "tacica"
+        },
+        {
+          "ep": "Apr. 2012 - Sep. 2012",
+          "song": "Totsugeki Rock (Assault Rock)",
+          "singer": "The Cro-Magnons"
+        },
+        {
+          "ep": "Oct. 2012 - Mar. 2013",
+          "song": "Moshimo",
+          "singer": "DaisukE"
+        },
+        {
+          "ep": "Apr. 2013 - Sep. 2013",
+          "song": "Niwaka Ame ni mo Makezu",
+          "singer": "NICO Touches the Walls"
+        },
+        {
+          "ep": "Oct. 2013 - Mar. 2014",
+          "song": "Tsuki no Ookisa",
+          "singer": "Nogizaka46"
+        },
+        { "ep": "Apr. 2014 - Sep. 2014", "song": "Guren", "singer": "DOES" },
+        {
+          "ep": "Oct. 2014 - Mar. 2015",
+          "song": "Silhouette",
+          "singer": "ＫＡＮＡ－ＢＯＯＮ"
+        },
+        { "ep": "Apr. 2015 - Sep. 2015", "song": "Kaze", "singer": "Yamazaru" },
+        {
+          "ep": "Oct. 2015 - Mar. 2016",
+          "song": "ＬＩＮＥ",
+          "singer": "Sukima Switch"
+        },
+        {
+          "ep": "Apr. 2016 - Sep. 2016",
+          "song": "Blood Circulator",
+          "singer": "ASIAN KUNG-FU GENERATIONN"
+        },
+        {
+          "ep": "Oct. 2016 - Dec. 2016",
+          "song": "Kara no Kokoro",
+          "singer": "Anly"
+        }
+      ],
+      "ending": [
+        {
+          "ep": "Feb. 2007 - Jun. 2007",
+          "song": "Shooting Star",
+          "singer": "Home Made Kazoku"
+        },
+        {
+          "ep": "Jul. 2007 - Sep. 2007",
+          "song": "Michi ~ to you all",
+          "singer": "aluto"
+        },
+        {
+          "ep": "Oct. 2007 - Dec. 2007",
+          "song": "Kimi Monogatari",
+          "singer": "little by little"
+        },
+        {
+          "ep": "Jan. 2008 - Mar. 2008",
+          "song": "Mezamero! Yasei",
+          "singer": "MATCHY with QUESTION"
+        },
+        {
+          "ep": "Apr. 2008 - Jun. 2008",
+          "song": "Sunao na Niji",
+          "singer": "surface"
+        },
+        {
+          "ep": "Jul. 2008 - Sep. 2008",
+          "song": "Broken Youth",
+          "singer": "NICO Touches the Walls"
+        },
+        {
+          "ep": "Oct. 2008 - Dec. 2008",
+          "song": "Long Kiss Good Bye",
+          "singer": "HALCARI"
+        },
+        {
+          "ep": "Jan. 2009 - Mar. 2009",
+          "song": "Bacchikoi!!!",
+          "singer": "DEV PARADE"
+        },
+        {
+          "ep": "Apr. 2009 - Jun. 2009",
+          "song": "Shinkokyu",
+          "singer": "SUPER BEAVER"
+        },
+        {
+          "ep": "Jul. 2009 - Sep. 2009",
+          "song": "My ANSWER",
+          "singer": "SEAMO"
+        },
+        {
+          "ep": "Oct. 2009 - Dec. 2009",
+          "song": "Omae Dattanda",
+          "singer": "Kishidan"
+        },
+        { "ep": "Jan. 2010 - Mar. 2010", "song": "For You", "singer": "AZU" },
+        {
+          "ep": "Apr. 2010 - Jun. 2010",
+          "song": "Jitensha (Bicycle)",
+          "singer": "ORESKABAND"
+        },
+        {
+          "ep": "Jul. 2010 - Sep. 2010",
+          "song": "Utakata Hanabi",
+          "singer": "supercell"
+        },
+        {
+          "ep": "Oct. 2010 - Dec. 2010",
+          "song": "You can do it!!",
+          "singer": "DOMINO"
+        },
+        {
+          "ep": "Jan. 2011 - Mar. 2011",
+          "song": "Mayonaka no Orchestra",
+          "singer": "Aqua Timez"
+        },
+        {
+          "ep": "Apr. 2011 - Jun. 2011",
+          "song": "FREEDOM",
+          "singer": "Home Made Kazoku"
+        },
+        {
+          "ep": "Jul. 2011 - Sep. 2011",
+          "song": "Yokubo Wo Sakebe!!!!",
+          "singer": "OKAMOTO'S"
+        },
+        {
+          "ep": "Oct. 2011 - Dec. 2011",
+          "song": "Place to Try",
+          "singer": "TOTALFAT"
+        },
+        {
+          "ep": "Jan. 2012 - Mar. 2012",
+          "song": "By My Side",
+          "singer": "Hemenway"
+        },
+        {
+          "ep": "Apr. 2012 - Jun. 2012",
+          "song": "Cascade",
+          "singer": "UNLIMITS"
+        },
+        {
+          "ep": "Jul. 2012 - Sep. 2012",
+          "song": "Kono Koe Karashite feat. CHEHON",
+          "singer": "AISHA"
+        },
+        { "ep": "Oct. 2012 - Dec. 2012", "song": "MOTHER", "singer": "MUCC" },
+        {
+          "ep": "Jan. 2013 - Mar. 2013",
+          "song": "Sayonara Memory",
+          "singer": "7!!（seven oops）"
+        },
+        {
+          "ep": "Apr. 2013 - Jun. 2013",
+          "song": "I Can Hear",
+          "singer": "DISH//"
+        },
+        {
+          "ep": "Jul. 2013 - Sep. 2013",
+          "song": "Yume wo Daite ~ Hajimari no Crissroad ~",
+          "singer": "RAKE"
+        },
+        {
+          "ep": "Oct. 2013 - Dec. 2013",
+          "song": "Black Night Town",
+          "singer": "Akihisa Kondo"
+        },
+        {
+          "ep": "Jan. 2014 - Mar. 2014",
+          "song": "Niji (Rainbow)",
+          "singer": "Shinku Horou"
+        },
+        { "ep": "Apr. 2014 - Jun. 2014", "song": "FLAME", "singer": "DISH//" },
+        {
+          "ep": "Jul. 2014 - Sep. 2014",
+          "song": "Never Change feat.Lyu:Lyu",
+          "singer": "SHUN"
+        },
+        {
+          "ep": "Oct. 2014 - Dec. 2014",
+          "song": "Damedameda",
+          "singer": "Shiori Tomita"
+        },
+        {
+          "ep": "Jan. 2015 - Mar. 2015",
+          "song": "Spinning World",
+          "singer": "Diana Garnet"
+        },
+        {
+          "ep": "Apr. 2015 - Jun. 2015",
+          "song": "Kotoba no Iranai Yakusoku",
+          "singer": "sana"
+        },
+        {
+          "ep": "Jul. 2015 - Sep. 2015",
+          "song": "Niji no Sora",
+          "singer": "FLOW"
+        },
+        {
+          "ep": "Oct. 2015 - Dec. 2015",
+          "song": "Trouble Maker",
+          "singer": "KANIKAPILA"
+        },
+        {
+          "ep": "Jan. 2016 - Mar. 2016",
+          "song": "Sonna Kimi, Konna Boku",
+          "singer": "Thinking Dogs"
+        },
+        {
+          "ep": "Apr. 2016 - Jun. 2016",
+          "song": "Ao no Lullaby (Blue Lullaby)",
+          "singer": "Kuroneko Chelsea"
+        },
+        {
+          "ep": "Jul. 2016 - Oct. 2016",
+          "song": "Pino To Ameri",
+          "singer": "Huwie Ishizaki"
+        },
+        {
+          "ep": "Oct. 2016 - Dec. 2016",
+          "song": "Tabidachi no Uta",
+          "singer": "Ayumikurikamaki"
+        }
+      ],
+      "officialUrl": "https://www.tv-tokyo.co.jp/anime/naruto/index2.html"
+    }
+  },
+  "__N_SSG": true
+}

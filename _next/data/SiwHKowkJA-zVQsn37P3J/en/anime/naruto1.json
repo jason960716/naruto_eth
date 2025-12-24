@@ -1,0 +1,168 @@
+{
+  "pageProps": {
+    "seriesDetail": {
+      "id": "naruto1",
+      "seriesName": "Naruto 少年篇",
+      "logoImg_pc": "/anime/series/naruto1_logo.webp",
+      "logoImg_sp": "/anime/series/naruto1_logo.webp",
+      "seriesSummary": "“I will become Hokage one day... Believe it!”\n  Naruto Uzumaki, an outcast of the Hidden Leaf Village , is determined to one day become the Hokage, the leader of that village. Because the Nine-Tailed Fox is sealed within him, Naruto's upbringing was one of isolation. But his days of loneliness end when he carrying out missions as a member of Team 7, comprising of Sasuke, Sakura, and the team's Jonin leader, Kakashi!",
+      "seriesImg": "/anime/series/naruto1_visual.webp",
+      "staff": [
+        {
+          "work": "Original Story and Art",
+          "name": "Masashi Kishimoto (Shueisha / Jump Comics)"
+        },
+        { "work": "Director", "name": "Hayato Date" },
+        {
+          "work": "Series Coordinator",
+          "name": "Katsuyuki Sumisawa / Junki Takegami"
+        },
+        {
+          "work": "Animation Character Designer",
+          "name": "Tetsuya Nishio / Hirofumi Suzuki"
+        },
+        { "work": "Art Director", "name": "Shigenori Takada" },
+        { "work": "Color Designer", "name": "Takuya Kawami" },
+        { "work": "Director of Cinematography", "name": "Astuho Matsumoto" },
+        {
+          "work": "Editing",
+          "name": "Morita Editing Room / Seiji Morita / Chieko Takayama / Yukie Oikawa"
+        },
+        { "work": "Recording Director", "name": "Chiharu Kamio" },
+        { "work": "Sound Director", "name": "Yasunori Ebina" },
+        { "work": "Music", "name": "MUSASHI PROJECT / Toshiro Masuda" }
+      ],
+      "cast": [
+        { "char": "Naruto Uzumaki", "name": "Junko Takeuchi" },
+        { "char": "Sasuke Uchiha", "name": "Noriaki Sugiyama" },
+        { "char": "Sakura Haruno", "name": "Chie Nakamura" },
+        { "char": "Kakashi Hatake", "name": "Kazuhiko Inoue" },
+        { "char": "Iruka Umino", "name": "Toshihiko Seki" },
+        { "char": "Shikamaru Nara", "name": "Showtaro Morikubo" },
+        { "char": "Ino Yamanaka", "name": "Ryoka Yuzuki" },
+        { "char": "Chouji Akimichi", "name": "Kentaro Ito" },
+        { "char": "Kiba Inuzuka", "name": "Kosuke Toriumi" },
+        { "char": "Hinata Hyuga", "name": "Nana Mizuki" },
+        { "char": "Shino Aburame", "name": "Shinji Kawada" },
+        { "char": "Rock Lee", "name": "Yoichi Masukawa" },
+        { "char": "Neji Hyuga", "name": "Koichi Tochika" },
+        { "char": "Tenten", "name": "Yukari Tamura" },
+        { "char": "Jiraiya", "name": "Hochu Otsuka" },
+        { "char": "Tsunade", "name": "Masako Katsuki" },
+        { "char": "Orochimaru", "name": "Kujira" },
+        { "char": "Kabuto Yakushi", "name": "Nobutoshi Canna" },
+        { "char": "Gaara", "name": "Akira Ishida" }
+      ],
+      "opening": [
+        {
+          "ep": "Oct. 2002 - Mar. 2003",
+          "song": "R★O★C★K★S",
+          "singer": "HOUND DOG"
+        },
+        {
+          "ep": "Apr. 2003 - Sep. 2003",
+          "song": "Haruka Kanata",
+          "singer": "ASIAN KUNG-FU GENERATION"
+        },
+        {
+          "ep": "Oct. 2003 - Mar. 2004",
+          "song": "Kanashimi wo Yasashisa ni",
+          "singer": "little by little"
+        },
+        { "ep": "Apr. 2004 - Sep. 2004", "song": "GO!!!", "singer": "FLOW" },
+        {
+          "ep": "Oct. 2004 - Mar. 2005",
+          "song": "Seishun Kyousou Kyoku",
+          "singer": "Sambomaster"
+        },
+        {
+          "ep": "Apr. 2005 - Sep. 2005",
+          "song": "No Boy, No Cry",
+          "singer": "STANCE PUNKS"
+        },
+        {
+          "ep": "Oct. 2005 - Mar. 2006",
+          "song": "Namikaze Satellite (Discord Satellite)",
+          "singer": "Snowkel"
+        },
+        {
+          "ep": "Apr. 2006 - Sep. 2006",
+          "song": "Re:member",
+          "singer": "FLOW"
+        },
+        {
+          "ep": "Oct. 2006 - Jan. 2007",
+          "song": "Yura Yura",
+          "singer": "Hearts Grow"
+        }
+      ],
+      "ending": [
+        { "ep": "Oct. 2002 - Mar. 2003", "song": "Wind", "singer": "Akeboshi" },
+        {
+          "ep": "Apr. 2003 - Sep. 2003",
+          "song": "Harmonia",
+          "singer": "RYTHEM"
+        },
+        {
+          "ep": "Oct. 2003 - Dec. 2003",
+          "song": "Viva☆Rock ~japanese side~",
+          "singer": "ORANGE RANGE"
+        },
+        { "ep": "Jan. 2004 - Mar. 2004", "song": "ALIVE", "singer": "Raico" },
+        {
+          "ep": "Apr. 2004 - Jun. 2004",
+          "song": "Ima made Nandomo",
+          "singer": "The Mass Missile"
+        },
+        {
+          "ep": "Jul. 2004 - Sep. 2004",
+          "song": "Ryuusei (Meteor)",
+          "singer": "TiA"
+        },
+        {
+          "ep": "Oct. 2004 - Dec. 2004",
+          "song": "Mountain A Go Go Two",
+          "singer": "Captain Straydum"
+        },
+        {
+          "ep": "Jan. 2005 - Mar. 2005",
+          "song": "Hajimete Kimi to Shabetta",
+          "singer": "GaGaGa SP"
+        },
+        {
+          "ep": "Apr. 2005 - Jun. 2005",
+          "song": "Nakushita Kotoba",
+          "singer": "No Regret Life"
+        },
+        {
+          "ep": "Jul. 2005 - Sep. 2005",
+          "song": "Speed",
+          "singer": "Analogfish"
+        },
+        {
+          "ep": "Oct. 2005 - Dec. 2005",
+          "song": "Soba ni Irukara",
+          "singer": "AMADORI"
+        },
+        { "ep": "Jan. 2006 - Mar. 2006", "song": "Parade", "singer": "CHABA" },
+        {
+          "ep": "Apr. 2006 - Jun. 2006",
+          "song": "Yellow moon",
+          "singer": "Akeboshi"
+        },
+        {
+          "ep": "Jul. 2006 - Sep. 2006",
+          "song": "Pinocchio",
+          "singer": "ORESKABAND"
+        },
+        {
+          "ep": "Oct. 2006 - Jan. 2007",
+          "song": "Scenario",
+          "singer": "SABOTEN"
+        }
+      ],
+      "officialUrl": "https://www.tv-tokyo.co.jp/anime/narutoshonen/"
+    }
+  },
+  "__N_SSG": true
+}

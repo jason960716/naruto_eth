@@ -1,0 +1,49 @@
+{
+  "pageProps": {
+    "seriesDetail": {
+      "id": "boruto",
+      "seriesName": "Boruto",
+      "logoImg_pc": "/anime/series/boruto_logo_pc.webp",
+      "logoImg_sp": "/anime/series/boruto_logo_sp.webp",
+      "seriesSummary": "The Hidden Leaf Village has entered an era of peace and modernization. Skyscrapers line the streets, videos play on giant screens, and a network of trains run throughout the village. Though still a ninja village, more civilians than ever roam its streets, and the shinobi must evolve with the times. While Naruto Uzumaki leads the village as the Seventh Hokage, his son Boruto begins his own journey at the Ninja Academy.\n  Boruto's classmates only see him as \"the Hokage's son,\" but his wild and unpredictable personality quickly blows that perception away! With new friends by his side, how will Boruto handle the mysterious incidents occurring around him? A new wind is blowing, stirring up hearts as it goes! The story of Boruto Uzumaki has begun!",
+      "seriesImg": "/anime/series/boruto_visual.webp",
+      "staff": [
+        {
+          "work": "Original Story and Art",
+          "name": "Boruto: Naruto Next Generations\n    Writer/Supervisor: Masashi Kishimoto\n    Manga Artist: Mikio Ikemoto (Published by Shueisha V Jump)"
+        },
+        { "work": "Director", "name": "Masayuki Koda" },
+        { "work": "Animation Director", "name": "Noriyuki Abe" },
+        { "work": "Screenwriter", "name": "Ukyo Kodachi" },
+        { "work": "Series Coordinator", "name": "Masaya Honda" },
+        {
+          "work": "Animation Character Designer",
+          "name": "Tetsuya Nishio / Hirofumi Suzuki"
+        },
+        {
+          "work": "Second Animation Character Designer",
+          "name": "Ichiro Uno / Yasuaki Kurozu"
+        },
+        { "work": "Color Designer", "name": "Tomoe Imamura" },
+        { "work": "Art Director", "name": "Hideyuki Ueno" },
+        { "work": "Director of Cinematography", "name": "Mai Masuno" },
+        { "work": "Music", "name": "Yasuharu Takanashi / -yaiba-" },
+        { "work": "Sound Director", "name": "Yasushi Nagura" },
+        { "work": "Sound Production", "name": "Rakuonsha" },
+        { "work": "Animation Production", "name": "Studio Pierrot" }
+      ],
+      "cast": [
+        { "char": "Boruto Uzumaki", "name": "Yuko Sanpei" },
+        { "char": "Sarada Uchiha", "name": "Cocoro Kikuchi" },
+        { "char": "Mitsuki", "name": "Ryuichi Kijima" },
+        { "char": "Konohamaru Sarutobi", "name": "Hidenori Takahashi" },
+        { "char": "Naruto Uzumaki", "name": "Junko Takeuchi" },
+        { "char": "Sasuke Uchiha", "name": "Noriaki Sugiyama" },
+        { "char": "Kawaki", "name": "Yuma Uchida" },
+        { "char": "Himawari Uzumaki", "name": "Saori Hayami" }
+      ],
+      "officialUrl": "https://www.tv-tokyo.co.jp/anime/boruto/"
+    }
+  },
+  "__N_SSG": true
+}
